@@ -1,1 +1,23 @@
+body {
+}
 
+h1 {
+style: bold;
+
+}
+header {
+background-color:darkolivegreen
+
+}
+
+img {
+    padding: 100px;
+    margin: 100px;
+    width: 400px;
+    height: 400px;
+}
+
+nav ul li{
+    display: flex;
+
+}
